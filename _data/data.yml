@@ -21,8 +21,6 @@ sidebar:
       - idiom: English
         level: Professional
     certs:
-      title: Certifications and Skills
-      info:
       - item:  Certified Kubernetes Administrator (CKA)
       - item:  Certified Kubernetes Application Developer (CKAD)
       - item:  The Open Group-TOGAF® 9 Certified

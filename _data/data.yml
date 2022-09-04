@@ -20,26 +20,26 @@ sidebar:
     languages:
       - idiom: English
         level: Professional
-    interests:
-      title: Certifications
+    certs:
+      title: Certifications and Skills
       info:
-        - item:  Certified Kubernetes Administrator (CKA)
-        - item:  Certified Kubernetes Application Developer (CKAD)
-        - item:  The Open Group-TOGAF® 9 Certified
-        - item:  Mirantis Certified OpenStack Professional
-        - item:  Oracle Certified Expert, EJB
-        - item:  Oracle Certified Professional, Programmer
-        - item: |
-            &#x2713; Cloud Native Architecture
-            &#x2713; Messaging Technologies
-            &#x2713; Networking Technologies
-            &#x2713; BPMN
-            &#x2713; Java/Python
-            &#x2713; Kubernetes
-            &#x2713; Docker
-            &#x2713; AWS/Cloud
-            &#x2713; Orchestration
-            &#x2713; Telecom (5G/EDGE)
+      - item:  Certified Kubernetes Administrator (CKA)
+      - item:  Certified Kubernetes Application Developer (CKAD)
+      - item:  The Open Group-TOGAF® 9 Certified
+      - item:  Mirantis Certified OpenStack Professional
+      - item:  Oracle Certified Expert, EJB
+      - item:  Oracle Certified Professional, Programmer
+      - item: |
+          &#x2713; Cloud Native Architecture
+          &#x2713; Messaging Technologies
+          &#x2713; Networking Technologies
+          &#x2713; BPMN
+          &#x2713; Java/Python
+          &#x2713; Kubernetes
+          &#x2713; Docker
+          &#x2713; AWS/Cloud
+          &#x2713; Orchestration
+          &#x2713; Telecom (5G/EDGE)
 
 
 career-profile:
@@ -102,5 +102,4 @@ experiences:
         - Technical Lead and Project transition SME.
 
 footer:
-    title: References
-    intro: References are available upon request.
+    <b><i>References are available upon request.</b></i>

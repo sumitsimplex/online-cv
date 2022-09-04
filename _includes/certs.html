@@ -6,14 +6,10 @@
     Certifications and Skills
   </h2>
 
-  <ul class="list-unstyled certs-list">
+  <ul class="list-unstyled interests-list">
     {% for cert in certs %}
 
-      {% if cert.link %}
-      <li><a href="{{ cert.link }}">{{ cert.item }}</a></li>
-      {% else %}
       <li>{{ cert.item }}</li>
-      {% endif %}
 
     {% endfor %}
   </ul>

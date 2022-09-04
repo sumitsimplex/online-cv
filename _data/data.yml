@@ -9,19 +9,38 @@ sidebar:
     # Profile information
     name: Sumit Dawar
     tagline: Architecture Consultant
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: sumit.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: contact@sumitdawar.com
     phone: 087 147 8046
-    timezone: Ireland/Dublin Timezone
-    citizenship: India
-    website: cv.sumitdawar.com #do not add http://
+    timezone: Ireland
+    website: www.sumitdawar.com #do not add http://
     linkedin: ie.linkedin.com/in/sumitdawar
-
     languages:
       - idiom: English
         level: Professional
+    interests:
+      title: Certifications
+      info:
+        - item:  Certified Kubernetes Administrator (CKA)
+        - item:  Certified Kubernetes Application Developer (CKAD)
+        - item:  The Open Group-TOGAF® 9 Certified
+        - item:  Mirantis Certified OpenStack Professional
+        - item:  Oracle Certified Expert, EJB
+        - item:  Oracle Certified Professional, Programmer
+        - item: |
+            &#x2713; Cloud Native Architecture
+            &#x2713; Messaging Technologies
+            &#x2713; Networking Technologies
+            &#x2713; BPMN
+            &#x2713; Java/Python
+            &#x2713; Kubernetes
+            &#x2713; Docker
+            &#x2713; AWS/Cloud
+            &#x2713; Orchestration
+            &#x2713; Telecom (5G/EDGE)
+
 
 career-profile:
     title: SUMMARY
@@ -82,6 +101,6 @@ experiences:
         - Earned several awards for going the extra mile and developing automation quality improvement solutions using VBA and Macros.
         - Technical Lead and Project transition SME.
 
-references:
+footer:
     title: References
     intro: References are available upon request.

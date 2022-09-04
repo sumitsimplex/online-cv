@@ -7,188 +7,81 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sumit Dawar
+    tagline: Architecture Consultant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: contact@sumitdawar.com
+    phone: 087 147 8046
+    timezone: Ireland/Dublin Timezone
+    citizenship: India
+    website: cv.sumitdawar.com #do not add http://
+    linkedin: ie.linkedin.com/in/sumitdawar
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
-    title: Career Profile
+    title: SUMMARY
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A TOGAF certified Architect with experience in Cloud native application
+      architecture. A friendly and approachable professional with all-round ability to
+      work on multiple projects and meet deadlines whilst comprehending complex and
+      interdependent business processes. Proficient in identifying client’s requirements
+      and translating them into appropriate technical solutions. Experienced in providing
+      motivation, guidance and an up to date insights to peers, stakeholders and clients.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science (Research)
+      university: Athlone Institute of Technology, Athlone, Ireland
+      time: September 2012 – May 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Software Engineering
+    - degree: Bachelor of Technology
+      university: GPMCE, Indraprastha University, Delhi, India
+      time: June 2005 – May 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Electronics and Communications Engineering
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Architecture Consultant
+      time: August 2020 - Present
+      company: Huawei Ireland Research Center, Dublin (R&D Cloud Core Networks)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Worked on PoC for cloud fault management use-cases.
+        - Successfully completed architecture, design and implementation of microservices and data pipeline.
+        - Implemented end to end architecture and design of containerized workloads for KPIs measurements.
+        - Delivered technical presentations and demos to stakeholders.
+        - Delivered framework/architecture for data inconsistency in ETSI MANO architecture.
+    - role: Lead Architect
+      time: April 2018 – August 2022
+      company: Zinkworks, Athlone (Ericsson – Service Orchestration)
+      details: |
+        - Led four agile development teams. Responsible for mentoring, guidance, features refinement and design specification reviews.
+        - Delivered technical presentations, demos and workshops to customers and stakeholders.
+        - Governed software design and enforced standards on REST APIs for microservices.
+        - Consulted solution architects and stakeholders to gather requirements for inputs to the evolving Product Roadmap.
+        - Coordinated across multiple teams to roll out architecture initiatives and manage technical debts.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: June 2017 – April 2018
+      company: UBiqube, Dublin (MSActivator)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Proposed and managed adoption of agile methodologies for scrum software development, led to more than 50% improved communication between distributed teams across the globe and increased productivity.
+        - Implemented REST APIs layer for north-bound interface alongside existing SOAP interface.
+        - Designed and implemented the load balancing solution
+    - role: (Senior) Software Engineer
+      time: September 2012 – June 2017
+      company: Ericsson, Athlone (Multiple projects)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - Technical Lead for a Cloud Service Orchestration Product.
+        - Implemented the Orchestration solution (PoC) utilizing TOSCA modelling.
+    - role: (Senior) Network Engineer
+      time: June 2009 – August 2012
+      company: Tata Communications Transformation Services, India (Voice Provisioning)
+      details: |
+        - Earned several awards for going the extra mile and developing automation quality improvement solutions using VBA and Macros.
+        - Technical Lead and Project transition SME.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+references:
+    title: References
+    intro: References are available upon request.

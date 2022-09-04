@@ -21,12 +21,18 @@ sidebar:
       - idiom: English
         level: Professional
     certs:
-      - item: &#10687; Certified Kubernetes Administrator (CKA)
-      - item: &#10687; Certified Kubernetes Application Developer (CKAD)
-      - item: &#10687; The Open Group-TOGAF® 9 Certified
-      - item: &#10687; Mirantis Certified OpenStack Professional
-      - item: &#10687; Oracle Certified Expert, EJB
-      - item: &#10687; Oracle Certified Professional, Programmer
+      - item: |
+          &#10687; Certified Kubernetes Administrator (CKA)
+      - item: |
+          &#10687; Certified Kubernetes Application Developer (CKAD)
+      - item: |
+          &#10687; The Open Group-TOGAF® 9 Certified
+      - item: |
+          &#10687; Mirantis Certified OpenStack Professional
+      - item: |
+          &#10687; Oracle Certified Expert, EJB
+      - item: |
+          &#10687; Oracle Certified Professional, Programmer
       - item: |
           &#x2713; Cloud Native Architecture<br>
           &#x2713; Messaging Technologies<br>
